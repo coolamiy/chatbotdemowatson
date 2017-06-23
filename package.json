@@ -10,10 +10,12 @@
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.3",
     "express": "~4.15.2",
+    "install": "^0.10.1",
     "jade": "~1.11.0",
     "morgan": "~1.8.1",
+    "npm": "^5.0.3",
     "serve-favicon": "~2.4.2",
-    "watson-developer-cloud": "^2.1.4"
-
+    "twilio": "^3.4.0",
+    "watson-developer-cloud": "^2.32.1"
   }
 }
