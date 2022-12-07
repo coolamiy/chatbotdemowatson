@@ -9,7 +9,7 @@
     "body-parser": "~1.17.1",
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.9",
-    "express": "~4.15.2",
+    "express": "~4.17.3",
     "install": "^0.10.1",
     "jade": "~1.11.0",
     "morgan": "~1.9.1",
